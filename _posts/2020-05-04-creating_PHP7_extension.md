@@ -5,7 +5,7 @@ title: Создаём своё расширение для РНР 7 в Docker к
 
 Нужен Докер работающий.
 
-[source code](https://github.com/davletyarov/php7ext)
+Исходники работающего контейнера, для примера тут [source code](https://github.com/davletyarov/php7ext)
 
 Так.
 Запускам докер-композ, переходим в контейнер **php-container**
