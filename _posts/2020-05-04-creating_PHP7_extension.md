@@ -23,6 +23,10 @@ service apache2 restart # перезапускаем апач
 
 Запускаем контейнер **php-container** и переходим в [http://localhost:8000/](http://localhost:8000/)
 и видем результаты от двух демо функции 
+```php
+echo hello_test1();
+echo hello_test2('это же новое расширение');
+```
 
 можно внутри контейнера проделать
 ```bash
