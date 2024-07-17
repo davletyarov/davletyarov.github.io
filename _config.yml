@@ -15,7 +15,6 @@ minima:
   date_format: "%d-%b-%Y"
   social_links:
     github: "davletyarov"
-    instagram: "roozel.davletyarov"
     telegram: "buraevo"
 theme: minima
 plugins:
