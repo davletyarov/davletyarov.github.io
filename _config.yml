@@ -12,7 +12,7 @@ sass:
   style: compressed
 permalink: pretty
 minima:
-  date_format: "%d-%b-%Y"
+  date_format: "%dd.%bb.%Y"
   social_links:
     github: "davletyarov"
     telegram: "buraevo"
